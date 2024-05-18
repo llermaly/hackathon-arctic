@@ -1,3 +1,9 @@
 streamlit
 replicate
 transformers
+python-dotenv
+llama-index
+pytube
+youtube-transcript-api
+llama-index-embeddings-huggingface
+llama-index-llms-replicate
